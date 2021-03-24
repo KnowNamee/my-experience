@@ -1,0 +1,3 @@
+[submodule "bsu-multithreading"]
+	path = bsu/multithreading
+	url = https://github.com/KnowNamee/bsu-multithreading
