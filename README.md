@@ -1,5 +1,5 @@
 # My programming experience
-All my programming experience will be here :books:
+Some stuff from my programming experience can be here :books:
 
 # C++
 * Multithreading :
