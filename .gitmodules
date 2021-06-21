@@ -1,4 +1,7 @@
-
 [submodule "bsu-multithreading"]
 	path = bsu-multithreading
-	url = git@github.com:KnowNamee/bsu-multithreading.git
+    url = git@github.com:KnowNamee/bsu-multithreading.git
+
+[submodule "bsu-rendering"]
+	path = bsu-rendering
+	url = git@github.com:KnowNamee/bsu-rendering.git
